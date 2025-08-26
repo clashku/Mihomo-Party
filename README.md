@@ -1,2 +1,1 @@
-# Mihomo-Party
-Mihomo Party 官网下载客户端分享
+# Mihomo Party 官网下载客户端分享
